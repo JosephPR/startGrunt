@@ -1,0 +1,20 @@
+{
+  "name": "startgrunt",
+  "version": "1.0.0",
+  "description": "\"Learning Grunt and Sass\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Reilly",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.4.8",
+    "grunt": "^1.0.3",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-postcss": "^0.9.0"
+  }
+}
